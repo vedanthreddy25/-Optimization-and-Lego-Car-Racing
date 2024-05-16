@@ -20,7 +20,7 @@ The project is divided into two distinct phases:
 - **Challenges**: We encountered and overcame obstacles such as factor identification, part valuation, and code transformation through collaborative problem-solving and resource utilization.
 
 **Our Car Design given by model**
-![Alt text](our car.jpg?raw=true "Optional Title")
+![Our Car](Our%20Car.jpg)
 
 
 
