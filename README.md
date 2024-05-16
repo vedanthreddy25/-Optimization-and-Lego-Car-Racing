@@ -19,6 +19,8 @@ The project is divided into two distinct phases:
 - **Code**: Our Cplex code implementation transforms decision variables, parameters, constraints, and the objective function into actionable insights for car design.
 - **Challenges**: We encountered and overcame obstacles such as factor identification, part valuation, and code transformation through collaborative problem-solving and resource utilization.
 
+Our Car Design given by model
+![image](https://github.com/vedanthreddy25/Optimization-and-Lego-Car-Racing/assets/98727754/2fe657e3-c9a9-42f8-9508-ddd4b1750040)
 **Key Achievements:**
 - Successfully translated insights into a sophisticated optimization model, maximizing car performance within budget limitations.
 - Cultivated invaluable lessons in teamwork dynamics and problem-solving methodologies.
