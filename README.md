@@ -22,8 +22,9 @@ The project is divided into two distinct phases:
 **Our Car Design given by model**
 
 <div style="text-align: center;">
-    <img src="Our%20Car.jpg" width="400" height="300">
+    <img src="Our%20Car.jpg" width="400" height="300" style="display: block; margin: auto;">
 </div>
+
 
 
 
