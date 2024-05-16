@@ -20,9 +20,10 @@ The project is divided into two distinct phases:
 - **Challenges**: We encountered and overcame obstacles such as factor identification, part valuation, and code transformation through collaborative problem-solving and resource utilization.
 
 **Our Car Design given by model**
-<center>
+<p align="center">
     <img src="Our%20Car.jpg" width="400" height="300">
-</center>
+</p>
+
 
 **Key Achievements:**
 - Successfully translated insights into a sophisticated optimization model, maximizing car performance within budget limitations.
