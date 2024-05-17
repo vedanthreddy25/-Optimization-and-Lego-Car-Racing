@@ -16,7 +16,7 @@ The project is divided into two distinct phases:
    - Defined decision variables, parameters, and constraints to formulate an objective function aiming to maximize total distance traveled by the car.
 
 **Implementation:**
-- **Code**: Our Cplex code implementation transforms decision variables, parameters, constraints, and the objective function into actionable insights for car design.
+- **Code**: Our Cplex code implementation transforms decision variables, parameters, constraints, and the objective function into actionable insights for car design.(Check out .mod file)
 - **Challenges**: We encountered and overcame obstacles such as factor identification, part valuation, and code transformation through collaborative problem-solving and resource utilization.
 
 **Our Car Design given by model**
